@@ -1,2 +1,2 @@
 #!/bin/baSh
-tr -d "Cc"
+tr -d Cc
